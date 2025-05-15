@@ -2,6 +2,11 @@
 
 Este projeto implementa um **visualizador de imagens** em Python utilizando Streamlit e OpenCV. O usuário pode carregar uma imagem, ajustar canais de cor (BGR), aplicar diversos filtros (escala de cinza, inversão de cores, contraste, blur, nitidez e detecção de bordas) e realizar transformações adicionais. Ao final, é possível baixar a imagem processada.
 
+## Vídeo
+
+https://github.com/user-attachments/assets/cd98fc96-b007-46cc-ac88-63d0a0d479e6
+
+
 ## Pré-requisitos
 
 - Python 3.7 ou superior  
