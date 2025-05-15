@@ -61,6 +61,8 @@ streamlit run interface.py
 
 ```bash
 atividade-visualizador-imagens/
+├─ assets/              
+│  └─ 2025-05-15 09-05-11.mp4 # Vídeo mostrando interface
 ├─ filters/               # Scripts de filtros individuais
 │  ├─ grey_scale.py
 │  ├─ invert_color.py
@@ -72,5 +74,5 @@ atividade-visualizador-imagens/
 ├─ requirements.txt       # Lista de dependências
 ├─ README.md              # Documentação de uso
 ├─ .gitignore
-└─ venv/                  # Ambiente virtual (opcional)
+└─ venv/                  # Ambiente virtual
 ```
